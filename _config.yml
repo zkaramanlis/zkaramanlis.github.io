@@ -1,0 +1,19 @@
+# Site settings
+title: Zachary Karamanlis
+description: Jekyll Theme Minimal Resume
+baseurl: ""
+url: "zkaramanlis.github.io"
+
+# User settings
+username: Zachary Karamanlis
+user_title: Software Engineer
+email: zachary.karamanlis@gmail.com
+github_username: zkaramanlis
+linkedin_url: https://www.linkedin.com/in/zachary-karamanlis-a23368133/
+
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
